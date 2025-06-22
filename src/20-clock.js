@@ -1,5 +1,5 @@
 function milisegundosDesdeMedianoche() {
-  const ahora = new Date();  // Obtiene la fecha y hora 
+  const ahora = new Date()
 
   const horas = ahora.getHours()
   const minutos = ahora.getMinutes()
