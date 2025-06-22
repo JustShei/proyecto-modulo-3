@@ -6,3 +6,7 @@ function oddEven(num1) {
     }
 }
 oddEven(59)
+oddEven(976)
+oddEven(3)
+oddEven(5566)
+

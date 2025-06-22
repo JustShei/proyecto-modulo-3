@@ -4,3 +4,4 @@ function palindromo(text) {
     return textOriginal === textConverse
 }
 console.log(palindromo ("sometemos"))
+console.log(palindromo ("abierto"))
